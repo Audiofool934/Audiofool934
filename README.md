@@ -2,4 +2,5 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Statistics, ML
 - ⚡ Fun fact: "Audiofool" is the variant of "Audiophile". Music I love, fool I am.
+- 🌗 huge Pink Floyd fan
 - 🏫 School of Statistics, Renmin University of China
