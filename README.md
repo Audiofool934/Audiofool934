@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Audiofool934
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Statistics, ML
-- ⚡ Fun fact: "Audiofool" is the variant of "Audiophile". Music I love, fool I am.
-- 🌗 huge Pink Floyd fan
+- 👀 I’m passionate about Math, Computer Science, and Artificial Intelligence
+- 🌱 I’m currently majoring in Statistics (and Data Science)
+- 🌗 Die-hard Pink Floyd fan
+- ⚡ Fun fact: “Audiofool” is a playful twist on “Audiophile.” Music I love, fool I am
