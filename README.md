@@ -2,4 +2,4 @@
 - 👀 I’m passionate about Math, Computer Science, and Artificial Intelligence
 - 🌱 I’m currently majoring in Statistics (and Data Science)
 - 🌗 Die-hard Pink Floyd fan
-- ⚡ Fun fact: “Audiofool” is a playful twist on “Audiophile.” Music I love, fool I am
+- ⚡ “Audiofool” is a playful twist on “Audiophile.” Music I love, fool I am
