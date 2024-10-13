@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Audiofool934
 - 👀 I’m passionate about Math, Computer Science, and Artificial Intelligence
-- 🌱 I’m currently majoring in Statistics (and Data Science)
+- 🌱 I’m currently majoring in Statistics (& Data Science)
 - 🌗 Die-hard Pink Floyd fan
 - ⚡ “Audiofool” is a playful twist on “Audiophile.” Music I love, fool I am
