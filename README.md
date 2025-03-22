@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Audiofool934
-- 👀 I’m passionate about Math, Computer Science, and Artificial Intelligence
+- 👀 I’m passionate about Math, Computer Science, and Intelligence
 - 🌱 I’m currently majoring in Statistics (& Data Science)
 - 🌗 Die-hard Pink Floyd fan
-- ⚡ “Audiofool” is a playful twist on “Audiophile.” Music I love, fool I am
-- ❤️‍🔥 Love the exponential distribution most — forever young, haha!
+- ⚡ “Audiofool” is a playful twist on “Audiophile”
+- ❤️‍🔥 O ever youthful, O ever weeping
